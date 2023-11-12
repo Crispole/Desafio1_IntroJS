@@ -31,3 +31,15 @@ menos.onclick = function () {
 //     total.innerHTML =
 //     cantidad.innerHTML * precioInicial.innerHTML.toLocaleString();
 // });
+
+//Opción 3
+
+// function restar (){
+//     cantidad.innerHTML--;
+//     total.innerHTML = (cantidad.innerHTML * precioInicial.innerHTML).toLocaleString();
+// }
+
+// function sumar (){
+//     cantidad.innerHTML++;
+//     total.innerHTML = (cantidad.innerHTML * precioInicial.innerHTML).toLocaleString();
+// }
